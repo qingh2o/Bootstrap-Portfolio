@@ -11,15 +11,13 @@ body {
     font-weight: normal;
 }
 
-
-
 /* a {
     text-decoration: none;
 }
-   */
+  
 a:hover {
     color: #2036fc;
-}
+} */
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'sans-serif';
@@ -27,7 +25,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Navigation bar ============= */
-
 .navbar-brand {
     font-family: 'Montserrat';
     font-size: 24px;
@@ -46,7 +43,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Hero Section =============*/
-
 .masthead img {
     border-radius: 30%;
     box-shadow: 0px 5px 5px 0px #adb5bd;
@@ -59,6 +55,11 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /* Skills Section =============*/
+#skills,
+#skills .list-group-item {
+    background-color: #D6B9A3;
+}
+
 #skills li {
  border: none;
 }
