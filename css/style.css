@@ -10,11 +10,13 @@ body {
     font-size: 18px;
     font-weight: normal;
 }
-  
-a {
+
+
+
+/* a {
     text-decoration: none;
 }
-  
+   */
 a:hover {
     color: #2036fc;
 }
@@ -38,6 +40,11 @@ h1, h2, h3, h4, h5, h6 {
    text-underline-offset: 8px;
 }
 
+.navbar-toggler:hover {
+    background-color: #D6B9A3;
+    border-radius: 10px;
+}
+
 /* Hero Section =============*/
 
 .masthead img {
@@ -54,4 +61,9 @@ h1, h2, h3, h4, h5, h6 {
 /* Skills Section =============*/
 #skills li {
  border: none;
+}
+
+/* Footer section ============= */
+.btn-info:hover  {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
