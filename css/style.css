@@ -12,12 +12,11 @@ body {
 }
   
 a {
-    color: #313131;
     text-decoration: none;
 }
   
 a:hover {
-    color: #fcbd20;
+    color: #2036fc;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,21 +26,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Navigation bar ============= */
-#mainNav {
-    position: fixed;
-    width: 100%;
-    z-index: 10;
-    background-color: #F8F9FA;
-    transition: 0.8;
-}
 
-.logo {
+.navbar-brand {
     font-family: 'Montserrat';
     font-size: 24px;
     font-weight: 700;
     line-height: 49px;
 }
 
-.navbar-nav {
-    margin-left: auto;
-  }
+.navbar-nav .nav-link:hover {
+   text-decoration: underline 1px solid var(--bs-navbar-hover-color);  
+   text-underline-offset: 8px;
+}
