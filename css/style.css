@@ -39,20 +39,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Hero Section =============*/
-.masthead .card {
-    margin: 30px auto;
-    border-color: transparent;
-    background: transparent;
-}
 
 .masthead img {
-    max-width: 400px;
-    max-height: 400px;
     border-radius: 30%;
     box-shadow: 0px 5px 5px 0px #adb5bd;
 }
 
-.masthead p {
-    font-size: 48px;
+.masthead .content {
+  display: flex;
+  align-items: center;
 }
-
