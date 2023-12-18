@@ -7,7 +7,7 @@ body {
 
 body {
     font-family: 'Open Sans';
-    font-size: 18px;
+    font-size: 16px;
     font-weight: normal;
 }
 
@@ -62,6 +62,16 @@ h1, h2, h3, h4, h5, h6 {
 
 #skills li {
  border: none;
+}
+
+/* Contact Section ============= */
+/* .contact-section .card {
+    width: 400px;
+} */
+
+
+#contact li {
+    border: none;
 }
 
 /* Footer section ============= */
