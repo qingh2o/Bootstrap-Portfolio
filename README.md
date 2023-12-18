@@ -9,9 +9,9 @@ The website should contain the following onboarding components to meet critical 
 
 * A Navigation bar   
 
-    -A navigation menu at the top. 
+    - A navigation menu at the top. 
 
-      - Include links that are applicable to your portfolio. 
+        - Include links that are applicable to your portfolio. 
 
         - Links should navigate to the appropriate sections 
 
