@@ -53,22 +53,22 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
 }
 
+/* Work Section ============= */
+.album .card:hover {
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
 
 /* Skills Section =============*/
-#skills,
+/* #skills,
 #skills .list-group-item {
     background-color: #D6B9A3;
-}
+} */
 
 #skills li {
  border: none;
 }
 
 /* Contact Section ============= */
-/* .contact-section .card {
-    width: 400px;
-} */
-
 
 #contact li {
     border: none;
