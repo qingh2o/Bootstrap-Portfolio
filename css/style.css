@@ -11,14 +11,6 @@ body {
     font-weight: normal;
 }
 
-/* a {
-    text-decoration: none;
-}
-  
-a:hover {
-    color: #2036fc;
-} */
-
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: 500;
@@ -59,17 +51,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Skills Section =============*/
-/* #skills,
-#skills .list-group-item {
-    background-color: #D6B9A3;
-} */
-
 #skills li {
  border: none;
 }
 
 /* Contact Section ============= */
-
 #contact li {
     border: none;
 }
